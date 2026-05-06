@@ -8,7 +8,7 @@ if (localStorage.getItem("FlagLogShinko")) {
     flagPerType = temp.flagPerType;
     stopDate = temp.lastDate;
     stopChange = temp.lastChange;
-    var skip = false;
+    let skip = false;
 }
 else {
     var skip = false;
