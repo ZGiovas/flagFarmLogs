@@ -29,7 +29,7 @@ else {
 }
 
 var langShinko = {
-    "gr_GR": {
+    "el_GR": {
       "Produced nobleman": " Δημιουργημένοι αριστοκράτες",
       "Resource production": "Παραγωγή πόρων",
       "Recruitment speed": "Ταχύτητα στρατολόγησης",
